@@ -12,4 +12,4 @@ This macro is built with few assumptions in mind as listed below
 
 
 # Automated_Fund_Portfolio_PnL process
-![alt text](https://github.com/Vanipreet/Automated_Fund_Portfolio_PnL/blob/master/Process_Automated_P%26L.png)
+![alt text](https://github.com/Vanipreet/Automated_Fund_Portfolio_PnL/blob/master/Process_Automated_PnL.png)

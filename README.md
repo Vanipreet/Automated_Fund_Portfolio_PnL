@@ -11,5 +11,5 @@ This macro is built with few assumptions in mind as listed below
 5. Macro expects static input data. However with appropriate mapping, database can be also accurated utilized
 
 
-# Automated_Fund_Portfolio_PnL processlow diagram
+# Automated_Fund_Portfolio_PnL processflow diagram
 ![alt text](https://github.com/Vanipreet/Automated_Fund_Portfolio_PnL/blob/master/Process_Automated_PnL.png)

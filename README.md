@@ -3,7 +3,7 @@
 # Table of Content
 ### [Introduction](#introduction-1)
 ### [Assumptions](#assumptions-1)
-### [Automated_Fund_Portfolio_PnL processflow diagram](#automated_fund_nav_calculation_processflow-diagram-1)
+### [Automated_Fund_Portfolio_PnL processflow diagram](#automated_fund_portfolio_pnl-processflow-diagram-1)
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
 ### [Forward](#forward-1)
 
